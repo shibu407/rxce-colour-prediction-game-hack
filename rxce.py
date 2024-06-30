@@ -116,7 +116,7 @@ def hero():
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
             sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
-            #print(numbers)
+            #print(numb363ers)
 
 
 
