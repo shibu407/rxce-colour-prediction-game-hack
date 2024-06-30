@@ -1,8 +1,8 @@
 #rxce
 #!/usr/bin/python
-# -*- coding: UTF-8 -*-
+# -*- coding: UTF-8 -*870-
 
-from os import system, name
+from os import system, name tiranga 
 import itertools
 import threading
 import time
